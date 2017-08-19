@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{chowdhury2012coflow}
+M.~Chowdhury and I.~Stoica.
+\newblock Coflow: A networking abstraction for cluster applications.
+\newblock In {\em Proceedings of the 11th ACM Workshop on Hot Topics in
+  Networks}, pages 31--36. ACM, 2012.
+
+\bibitem{chowdhury2015efficient}
+M.~Chowdhury and I.~Stoica.
+\newblock Efficient coflow scheduling without prior knowledge.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~45, pages
+  393--406. ACM, 2015.
+
+\bibitem{chowdhury2014efficient}
+M.~Chowdhury, Y.~Zhong, and I.~Stoica.
+\newblock Efficient coflow scheduling with varys.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~44, pages
+  443--454. ACM, 2014.
+
+\bibitem{dogar2014decentralized}
+F.~R. Dogar, T.~Karagiannis, H.~Ballani, and A.~Rowstron.
+\newblock Decentralized task-aware scheduling for data center networks.
+\newblock In {\em ACM SIGCOMM Computer Communication Review}, volume~44, pages
+  431--442. ACM, 2014.
+
+\bibitem{zhang2016coda}
+H.~Zhang, L.~Chen, B.~Yi, K.~Chen, M.~Chowdhury, and Y.~Geng.
+\newblock Coda: Toward automatically identifying and scheduling coflows in the
+  dark.
+\newblock In {\em Proceedings of the 2016 conference on ACM SIGCOMM 2016
+  Conference}, pages 160--173. ACM, 2016.
+
+\end{thebibliography}

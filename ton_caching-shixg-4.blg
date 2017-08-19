@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ton_caching-shixg-4.aux
+The style file: abbrv.bst
+Database file #1: paper.bib
+Warning--to sort, need author or key in actor
+Warning--to sort, need author or key in Akka
+Warning--to sort, need author or key in kryo
+Warning--to sort, need author or key in Yosemite
+Warning--to sort, need author or key in openstack
+Warning--to sort, need author or key in YosemiteSim
+Warning--to sort, need author or key in TC
+Warning--empty booktitle in DCTCP
+Warning--empty booktitle in pFabric
+Warning--can't use both volume and number fields in chowdhury2015efficient
+Warning--can't use both volume and number fields in chowdhury2014efficient
+Warning--can't use both volume and number fields in dogar2014decentralized
+Warning--can't use both volume and number fields in munir2014friends
+Warning--empty booktitle in D2TCP
+Warning--empty booktitle in D3
+You've used 32 entries,
+            2118 wiz_defined-function locations,
+            671 strings with 8914 characters,
+and the built_in function-call counts, 12656 in all, are:
+= -- 1273
+> -- 575
+< -- 19
++ -- 232
+- -- 198
+* -- 865
+:= -- 1892
+add.period$ -- 99
+call.type$ -- 32
+change.case$ -- 196
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 490
+empty$ -- 1015
+format.name$ -- 198
+if$ -- 2787
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 23
+newline$ -- 156
+num.names$ -- 50
+pop$ -- 252
+preamble$ -- 1
+purify$ -- 163
+quote$ -- 0
+skip$ -- 413
+stack$ -- 0
+substring$ -- 823
+swap$ -- 183
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 15
+while$ -- 108
+width$ -- 34
+write$ -- 338
+(There were 15 warnings)
